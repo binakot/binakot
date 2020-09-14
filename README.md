@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**binakot/binakot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src="binakot.jpg"
+        height="256">
+</p>
+<p align="center">
+    <a href="https://github.com/binakot" alt="GitHub Followers">
+        <img alt="GitHub Followers" src="https://img.shields.io/github/followers/binakot"></a>
+    <a href="https://twitter.com/binakot" alt="Twitter Followers">
+        <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/binakot"></a>
+</p>
