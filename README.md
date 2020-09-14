@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="binakot.jpg"
+    <img src="https://github.com/binakot/binakot/blob/master/binakot.jpg"
         height="256">
 </p>
 <p align="center">
