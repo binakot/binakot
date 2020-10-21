@@ -3,6 +3,8 @@
         height="256">
 </p>
 <p align="center">
+    <a href="https://github.com/binakot" alt="Profile Views">
+        <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=binakot&label=Profile%20views&color=0e75b6&style=flat"></a>
     <a href="https://github.com/binakot" alt="GitHub Followers">
         <img alt="GitHub Followers" src="https://img.shields.io/github/followers/binakot"></a>
     <a href="https://twitter.com/binakot" alt="Twitter Followers">
@@ -11,8 +13,6 @@
 
 <h1 align="center">Hi 👋, I'm Ivan Muratov</h1>
 <h3 align="center">Chief Technical Officer at Waliot 🛰️</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=binakot&label=Profile%20views&color=0e75b6&style=flat" alt="binakot" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binakot" alt="binakot" /></a> </p>
 
