@@ -31,6 +31,12 @@
 
 ---
 
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=binakot&theme=onedark&no-bg=true&no-frame=true&column=4" alt="binakot"/>
+    </a>
+</p>
+
 <div align="center"> 
     <a href="https://www.java.com" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
@@ -55,12 +61,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binakot&layout=compact&hide_border=true&bg_color=00000000&theme=onedark" alt="binakot" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binakot&show_icons=true&hide_border=true&bg_color=00000000&theme=onedark" alt="binakot" /></p>
-
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=binakot&theme=onedark&no-bg=true&no-frame=true&column=4" alt="binakot"/>
-    </a>
-</p>
 
 ---
 
