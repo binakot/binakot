@@ -58,7 +58,7 @@
     </a> 
 </div>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binakot&layout=compact&hide_border=true&bg_color=00000000&theme=onedark" alt="binakot" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binakot&layout=compact&hide_border=true&bg_color=00000000&theme=onedark&langs_count=10" alt="binakot" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binakot&show_icons=true&hide_border=true&bg_color=00000000&theme=onedark" alt="binakot" /></p>
 
