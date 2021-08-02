@@ -5,7 +5,10 @@
 
 <h1 align="center">Hi 👋, I'm Ivan Muratov</h1>
 
-<h3 align="center">Chief Technical Officer at Waliot 🛰️</h3>
+* Co-founder & CTO at [First Monitoring Company](https://firstmk.ru/) 🏢 - GPS | GLONASS monitoring software developer
+* Co-founder of [Waliot](https://waliot.com/) 🛰️ - SaaS fleet management system powered by cloud computing & machine learning
+* Co-founder of [beCycled](https://becycled.me/) 🚲 - Social platform for organizing and tracking cycling and other cyclic sports
+* Project Manager at [Nible](https://nible.io/) 🧑🏻‍💻 - Outsourcing department for custom product development at FMC
 
 <p align="center">
     <a href="https://github.com/binakot" alt="GitHub Views">
