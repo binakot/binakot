@@ -5,10 +5,19 @@
 
 <h1 align="center">Hi 👋, I'm Ivan Muratov</h1>
 
-* Co-founder & CTO at [First Monitoring Company](https://firstmk.ru/) 🏢 - GPS | GLONASS monitoring software developer
-* Co-founder of [Waliot](https://waliot.com/) 🛰️ - SaaS fleet management system powered by cloud computing & machine learning
-* Co-founder of [beCycled](https://becycled.me/) 🚲 - Social platform for organizing and tracking cycling and other cyclic sports
+* Co-founder & CTO at [First Monitoring Company, LLC](https://firstmk.ru/) 🏢 - software developer of monitoring and telemechanics systems
+* Co-founder & head of product [Waliot](https://waliot.com/) 🛰️ - SaaS fleet management system powered by cloud computing & machine learning
 * Project Manager at [Nible](https://nible.io/) 🧑🏻‍💻 - Outsourcing department for custom product development at FMC
+* Co-founder & developer of [beCycled](https://becycled.me/) 🚲 - Social platform for organizing and tracking cycling and other cyclic sports
+* Expert of TimescaleDB at [Postgres.AI](https://postgres.ai/) 🤖 - consulting and development of PostgreSQL tools for DEVs, DBAs and QA engineers
+* Member of the organizing committee of the [Krasnodar Dev Days](https://krd.dev/) 🤝 & founder of the backend community in Krasnodar
+* Speaker of technical conferences and participant of IT podcasts
+
+---
+
+- 📫 How to reach me **binakot@gmail.com**
+- 📄 Know about my experiences [https://binakot.github.io/resume](https://binakot.github.io/resume)
+- 👨‍💻 All of my public activities are available at [https://github.com/binakot/My-Public-Activities](https://github.com/binakot/My-Public-Activities)
 
 <p align="center">
     <a href="https://github.com/binakot" alt="GitHub Views">
@@ -68,9 +77,3 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binakot&show_icons=true&hide_border=true&bg_color=00000000&theme=onedark" alt="binakot" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binakot&theme=onedark&hide_border=true&background=00000000" alt="binakot" /></p>
-
----
-
-- 📫 How to reach me **binakot@gmail.com**
-- 📄 Know about my experiences [https://binakot.github.io/resume](https://binakot.github.io/resume)
-- 👨‍💻 All of my public projects are available at [https://github.com/binakot](https://github.com/binakot)
