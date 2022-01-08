@@ -5,11 +5,12 @@
 
 <h1 align="center">Hi 👋, I'm Ivan Muratov</h1>
 
-* Co-founder & CTO at [First Monitoring Company, LLC](https://firstmk.ru/) 🏢 - software developer of monitoring and telemechanics systems
+* Co-founder & CTO at [First Monitoring Company, LLC](https://firstmk.ru/) 🏢 - Software developer and vendor of monitoring and telemechanics systems
 * Co-founder & head of product [Waliot](https://waliot.com/) 🛰️ - SaaS fleet management system powered by cloud computing & machine learning
 * Project Manager at [Nible](https://nible.io/) 🧑🏻‍💻 - Outsourcing department for custom product development at FMC
-* Co-founder & developer of [beCycled](https://becycled.me/) 🚲 - Social platform for organizing and tracking cycling and other cyclic sports
-* Expert of TimescaleDB at [Postgres.AI](https://postgres.ai/) 🤖 - consulting and development of PostgreSQL tools for DEVs, DBAs and QA engineers
+* Technical Leader At [BreedEx]() 🌿 - Digital system for accounting and management of selection in agriculture
+* Co-founder & developer of [beCycled](https://github.com/be-Cycled) 🚲 - Social platform for organizing and tracking cycling and other cyclic sports
+* Expert of TimescaleDB at [Postgres.AI](https://postgres.ai/) 🤖 - Consulting and development of PostgreSQL tools for DEVs, DBAs and QA engineers
 * Member of the organizing committee of the [Krasnodar Dev Days](https://krd.dev/) 🤝 & founder of the backend community in Krasnodar
 * Speaker of technical conferences and participant of IT podcasts
 
