@@ -12,6 +12,7 @@
 * Co-founder & developer of [beCycled](https://github.com/be-Cycled) 🚲 - Social platform for organizing and tracking cycling and other cyclic sports
 * Expert of TimescaleDB at [Postgres.AI](https://postgres.ai/) 🤖 - Consulting and development of PostgreSQL tools for DEVs, DBAs and QA engineers
 * Member of the organizing committee of the [Krasnodar Dev Days](https://krd.dev/) 🤝 & founder of the backend community in Krasnodar
+* Teacher of the course on programming technologies at the [Kuban State University](https://www.kubsu.ru/ru/fktipm/prikladnaya-matematika-i-informatika-programmirovanie-i-informacionnye-tehnologii) 👨🏻‍🎓
 * Speaker of technical conferences and participant of IT podcasts
 
 ---
