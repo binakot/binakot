@@ -5,9 +5,8 @@
 
 <h1 align="center">Hi 👋, I'm Ivan Muratov</h1>
 
-* Co-founder & CTO at [First Monitoring Company, LLC](https://firstmk.ru/) 🏢 - Software developer and vendor of monitoring and telemechanics systems
+* Co-founder & CTO at [First Monitoring Company, LLC](https://firstmk.ru/) 🏢 - Software developer of monitoring and telemechanics systems
 * Co-founder & head of product [Waliot](https://waliot.com/) 🛰️ - SaaS fleet management system powered by cloud computing & machine learning
-* Project Manager at [Nible](https://nible.io/) 🧑🏻‍💻 - Outsourcing department for custom product development at FMC
 * Technical Leader at [BreedEx](http://selectec.ru/) 🌿 - Digital system for accounting and management of selection in agriculture
 * Expert of TimescaleDB at [Postgres.AI](https://postgres.ai/) 🤖 - Consulting and development of PostgreSQL tools for DEVs, DBAs and QA engineers
 * Member of the organizing committee of the [Krasnodar Dev Days](https://krd.dev/) 🤝 & founder of the backend community in Krasnodar
@@ -76,5 +75,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binakot&layout=compact&hide_border=true&bg_color=00000000&theme=onedark&langs_count=10" alt="binakot" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binakot&show_icons=true&hide_border=true&bg_color=00000000&theme=onedark" alt="binakot" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binakot&theme=onedark&hide_border=true&background=00000000" alt="binakot" /></p>
