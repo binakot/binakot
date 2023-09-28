@@ -8,7 +8,7 @@
 * Co-founder & CTO at [First Monitoring Company, LLC](https://firstmk.ru/) 🏢 - Software developer of monitoring and telemechanics systems
 * Co-founder & head of product [Waliot](https://waliot.com/) 🛰️ - SaaS fleet management system powered by cloud computing & machine learning
 * Technical Leader at [BreedEx](http://selectec.ru/) 🌿 - Digital system for accounting and management of selection in agriculture
-* Expert of TimescaleDB at [Postgres.AI](https://postgres.ai/) 🤖 - Consulting and development of PostgreSQL tools for DEVs, DBAs and QA engineers
+* Expert of TimescaleDB at [Postgres.AI](https://postgres.ai/) 🤖 - Consulting and development of PostgreSQL tools for DEVs, DBAs and QA
 * Member of the organizing committee of the [Krasnodar Dev Days](https://krd.dev/) 🤝 & founder of the backend community in Krasnodar
 * Teacher of the course on programming technologies at the [Kuban State University](https://www.kubsu.ru/ru/fktipm/prikladnaya-matematika-i-informatika-programmirovanie-i-informacionnye-tehnologii) 👨🏻‍🎓
 * Speaker of technical conferences and participant of IT podcasts
