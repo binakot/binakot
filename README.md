@@ -12,6 +12,7 @@
 * Member of the organizing committee of [Krasnodar Dev Days](https://krd.dev/) 🤝 & founder of the backend & devops community in Krasnodar
 * Teacher of the course on programming technologies in [Kuban State University](https://www.kubsu.ru/ru/fktipm/prikladnaya-matematika-i-informatika-programmirovanie-i-informacionnye-tehnologii) 👨🏻‍🎓
 * Speaker of technical conferences and participant of IT podcasts
+* Former indie game developer [ModDB](https://www.moddb.com/members/binakot) | [IndieDB](https://www.indiedb.com/members/binakot)
 
 ---
 
